@@ -38,9 +38,6 @@
 ---
 
 ## 2. Revenue Performance Analysis
-
-### **Monthly Revenue Breakdown**
-
 ### **Monthly Revenue Breakdown**
 
 | Month-Year | Revenue      | Growth Rate | Transaction Count | Revenue/Transaction |
@@ -69,7 +66,6 @@
 ---
 
 ## 3. Customer Behavior Insights
-
 ### **Customer Metrics Evolution**
 
 | Month-Year | Unique Customers | Repeat Customers (Same Month) | Retention Rate (Same Month) | Returning Customers (MoM) | MoM Returning Rate |
@@ -96,7 +92,6 @@
 ---
 
 ## 4. Pricing Strategy & Market Position
-
 ### **Price Distribution Analysis**
 
 | Month-Year | Avg Unit Price | Median Price | % Items > £10 | Price–Qty Correlation |
