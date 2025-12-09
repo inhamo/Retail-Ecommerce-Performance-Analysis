@@ -31,14 +31,22 @@
 - **Average Order Value Growth:** 70% increase (from $110 to $188)
 
 ### **Critical Insights**
+![Customer Retention Analysis](https://github.com/inhamo/Retail-Ecommerce-Performance-Analysis/blob/main/assets/images/retention.png)
+
 1. **Strong Seasonal Patterns:** Holiday season (Sep-Nov) drives 35% of annual revenue
 2. **Premiumization Trend:** Customers shifting toward higher-priced items
-3. **Retention Opportunity:** Only 32% same month and 39.42 month-over-month peak retention rates indicates room for improvement
+3. **Retention Opportunity:** Only 32% same month and 39.42% month-over-month peak retention rates indicates significant room for improvement
+
+*The retention visualization highlights both the growth in customer base and the ongoing challenge of keeping customers engaged month-over-month*
 
 ---
 
 ## 2. Revenue Performance Analysis
 ### **Monthly Revenue Breakdown**
+
+![Holiday Revenue Trends](https://github.com/inhamo/Retail-Ecommerce-Performance-Analysis/blob/main/assets/images/holiday_revenue.png)
+
+*The chart clearly demonstrates the pronounced holiday revenue peak in Q4 2011*
 
 | Month-Year | Revenue      | Growth Rate | Transaction Count | Revenue/Transaction |
 |------------|--------------|-------------|------------------|-------------------|
@@ -55,7 +63,6 @@
 | Oct-2011   | **$1,107,450**| 7.37%       | 2,008            | $551.52           |
 | **Nov-2011** | **$1,458,926**| **31.74%** | **2,753** | **$529.94** |
 | Dec-2011   | $615,717     | -57.80%     | 817              | $753.63           |
-
 
 ### **Key Observations:**
 - **Holiday Peak:** November 2011 revenue ($1.46M) represents the monthly peak
@@ -83,12 +90,18 @@
 | Oct-2011   | 1,361           | 310              | 22.78%         | 1,004               | 4.37%                |
 | **Nov-2011** | **1,661**     | **534**          | **32.15%**     | **1,338**           | **33.27**           |
 | Dec-2011   | 615             | 105              | 17.07%         | 574                 | -57.10%              |
-*again we can't look at December 2011, since in for 12 days only*
+
+*Again we can't look at December 2011, since in for 12 days only*
+
+### **Average Order Value Growth**
+![AOV Increase Over Time](https://github.com/inhamo/Retail-Ecommerce-Performance-Analysis/blob/main/assets/images/aov-increase.png)
+
+*70% increase in Average Order Value from $110 to $188 indicates successful upselling and premiumization trends*
 
 ### **Customer Insights:**
 1. **Customer Acquisition:** Successful growth strategy added 776 new customers (88% increase)
 2. **Retention Challenge:** Peak retention only 32.2% indicates significant churn
-
+3. **Premiumization Trend:** 70% AOV growth shows customers trading up to higher-value purchases
 ---
 
 ## 4. Pricing Strategy & Market Position
