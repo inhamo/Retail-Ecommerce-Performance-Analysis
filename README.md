@@ -37,7 +37,7 @@
 2. **Premiumization Trend:** Customers shifting toward higher-priced items
 3. **Retention Opportunity:** Only 32% same month and 39.42% month-over-month peak retention rates indicates significant room for improvement
 
-*The retention visualization highlights both the growth in customer base and the ongoing challenge of keeping customers engaged month-over-month*
+*The retention visualization highlights both the growth in customer base and the ongoing challenge of keeping customers engaged in the same month period*
 
 ---
 
