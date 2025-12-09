@@ -372,8 +372,8 @@ def create_clean_product_mapping(df):
 
 | Version | Date | Author | Key Updates |
 |---------|------|--------|-------------|
-| 1.0 | 30 July 2025 | Data Analyst Team | Initial analysis and findings |
-| 1.1 | [Current Date] | [Your Name] | Structured executive report format |
+| 1.0 |09 Dec 2025 | Innocent Nhamo | Initial analysis and findings |
+
 
 ### **Data Sources:**
 - `online_retail_data.csv`: Transaction-level data with 18 features
