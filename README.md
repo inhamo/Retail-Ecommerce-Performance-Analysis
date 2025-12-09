@@ -33,8 +33,7 @@
 ### **Critical Insights**
 1. **Strong Seasonal Patterns:** Holiday season (Sep-Nov) drives 35% of annual revenue
 2. **Premiumization Trend:** Customers shifting toward higher-priced items
-3. **Customer Engagement Improving:** Average recency decreased from 81 to 14 days
-4. **Retention Opportunity:** Only 32% peak retention rate indicates room for improvement
+3. **Retention Opportunity:** Only 32% same month and 39.42 month-over-month peak retention rates indicates room for improvement
 
 ---
 
@@ -47,7 +46,15 @@
 | Dec-2010 | $778,626 | -- | 1,552 | $501.69 |
 | Jan-2011 | $672,207 | -13.67% | 1,082 | $621.26 |
 | Feb-2011 | $509,168 | -24.25% | 1,093 | $465.84 |
-| **Nov-2011** | **$1,458,926** | **31.74%** | **2,753** | **$529.94** |
+| Mar-2011 | $692,016 | 35.91% | 1,440 | $480.57 |
+| Apr-2011 | $516,755 | -25.33% | 1,237 | $417.75 |
+| May-2011 | $741,727 | 43.54% | 1,669 | $444.41 |
+| Jun-2011 | $739,427 | -0.31% | 1,525 | $484.87 |
+| Jul-2011 | $689,948 | -6.69% | 1,452 | $475.17 |
+| Aug-2011 | $726,005 | 5.23% | 1,340 | $541.79 |
+| Sep-2011 | $1,031,430 | 42.07% | 1,821 | $566.41 |
+| Oct-2011 | $1,107,450 | 7.37% | 2,008 | $551.52 |
+| ==**Nov-2011**== | ==**$1,458,926**==|==**31.74%**== |==**2,753**==|==**$529.94**==|
 | Dec-2011 | $615,717 | -57.80% | 817 | $753.63 |
 
 ### **Key Observations:**
