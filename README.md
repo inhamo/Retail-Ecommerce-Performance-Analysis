@@ -184,7 +184,7 @@ graph TD
 | Issue Type | Detection Method | Resolution Strategy | Records Affected |
 |------------|------------------|---------------------|------------------|
 | **Zero UnitPrice** | `UnitPrice == 0` | Remove rows (cannot impute reliably) | 2,492 (0.46%) |
-| **Negative Quantity** | `Quantity < 0` | Investigated as returns/discounts | 10,626 (1.96%) |
+| **Negative Quantity** | `Quantity < 0` | Investigated as returns/discounts, however removed as they could not match any `InvoiceID` | 10,626 (1.96%) |
 | **Negative UnitPrice** | `UnitPrice < 0` | Remove (adjustment entries) | 2 (0.0004%) |
 | **Missing Descriptions** | `Description.isna()` | Later imputation via product mapping | 1,454 (0.27%) |
 
@@ -311,14 +311,6 @@ def create_clean_product_mapping(df):
 - **Scalability**: Pipeline designed to handle larger datasets with same logic
 - **Reproducibility**: All transformations are deterministic and documented
 - **Auditability**: Each stage can be validated independently
-
-The resulting dataset is now ready for:
-1. Customer segmentation (RFM analysis)
-2. Product recommendation systems
-3. Sales trend analysis
-4. Market basket analysis
-5. Customer lifetime value prediction
-
 
 ## 7. Strategic Recommendations
 
